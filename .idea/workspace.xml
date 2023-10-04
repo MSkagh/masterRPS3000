@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="602384ae-8eb4-4271-9f3e-f42669341747" name="Changes" comment="first but not final commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MasterRPS3000.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameSystem/Enemies/Behavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameSystem/Enemies/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameSystem/Enemies/Klockis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameSystem/Enemies/Namnis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameSystem/Enemies/Slumpis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameSystem/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameSystem/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameSystem/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameSystem/Records/Historian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameSystem/Records/Record.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameSystem/Round.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuSystem/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuSystem/MenuLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuSystem/Menues/Landing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuSystem/Menues/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuSystem/Menues/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuSystem/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Running notes and insights.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utilities/Graphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utilities/InputParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utilities/Timer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VhNNhBR7d9ny1jwCd1gXwjOoxs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="MenuSystem" />
+      <recent name="GameSystem.Enemy.Behaviors" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marti\Desktop\Git\Objektorienterad analys och design\MasterRPS3000\src\" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Utilities" />
+      <recent name="MenuSystem" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="MenuSystem.Menues" />
+      <recent name="GameSystem.Enemies" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MasterRPS3000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="602384ae-8eb4-4271-9f3e-f42669341747" name="Changes" comment="" />
+      <created>1695284315849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695284315849</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first but not final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first but not final commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
